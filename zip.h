@@ -1,3 +1,10 @@
+//---
+//Copyright (C) 2013 Sebastian Mach. mach.seb at gmail dot com
+//
+//Distributed under the Boost Software License, Version 1.0.
+//(See accompanying file LICENSE_1_0.txt or copy ath ttp://www.boost.org/LICENSE_1_0.txt)
+//---
+
 #ifndef ZIP_H_INCLUDED_20130319
 #define ZIP_H_INCLUDED_20130319
 
